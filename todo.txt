@@ -1,0 +1,4 @@
+# To Do
+- Learn Git
+- Push to GitHub
+- Collaborate with others
