@@ -21,3 +21,4 @@ def divide(a, b):
 
 def power(a, b):
     return a ** b
+print('Calculator ready!')
