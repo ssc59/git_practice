@@ -11,5 +11,8 @@ Learning Git and GitHub for the first time!
 ## Technologies
 - Python 3
 - Git & GitHub
+
 ## Work in Progress
 Currently adding a new feature
+
+## Updated from GitHub
