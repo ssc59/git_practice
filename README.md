@@ -16,3 +16,7 @@ Learning Git and GitHub for the first time!
 Currently adding a new feature
 
 ## Updated from GitHub
+
+# Testing Branch Protection
+
+This change should be blocked by branch protection!
